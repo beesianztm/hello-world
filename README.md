@@ -6,3 +6,6 @@ testing1
 
 /* added date */
 12 Nov 2015 Thursday
+
+/* added time */
+9.06 am morning
